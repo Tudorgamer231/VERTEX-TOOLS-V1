@@ -82,7 +82,6 @@ Educational use only. Author not responsible for misuse.
 
 ## 🔗 Links
 
-- **Discord**: [https://discord.gg/QaxQktYa63](https://discord.gg/QaxQktYa63)
 - **GitHub**: [https://github.com/Tudorgamer231/VERTEX-TOOLS-V1](https://github.com/Tudorgamer231/VERTEX-TOOLS-V1)
 
 ---
